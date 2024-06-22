@@ -1,16 +1,4 @@
-| Author | Dipl.-Ing. Daniel Mrskos, BSc |  
-|--------|---------------------------------------------------------------|   
-| Funktion | CEO von Security mit Passion, Penetration Tester, Mentor, FH-Lektor, NIS Prüfer |                               
-| Datum  | 14. Juni 2024                                                 |
-| <img src="SMP_LOGO.png" alt="Firmenlogo" width="100"/>    | <img src="daniel.jpeg" alt="Author" width="100"/>                         |                                              |
-| Zertifizierungen  | CSOM, CRTL, eCPTXv2, eWPTXv2, CCD, eCTHPv2, CRTE, CRTO, eCMAP, PNPT, eCPPTv2, eWPT, eCIR, CRTP, CARTP, PAWSP, eMAPT, eCXD, eCDFP, BTL1 (Gold), CAPEN, eEDA, OSWP, CNSP, Comptia Pentest+, ITIL Foundation V3, ICCA, CCNA, eJPTv2, Developing Security Software (LFD121), CAP, Checkmarx Security Champion                                         |
-| LinkedIN  | [https://www.linkedin.com/in/dipl-ing-daniel-mrskos-bsc-0720081ab/](https://www.linkedin.com/in/dipl-ing-daniel-mrskos-bsc-0720081ab/)  
-| Website  | [https://security-mit-passion.at](https://security-mit-passion.at)  
-
----
 ### Richtlinie für die Gebäudesicherheit
-
-**Datum:** [Heutiges Datum]
 
 **Einleitung**
 
@@ -95,14 +83,3 @@ Die Implementierung und Einhaltung dieser Richtlinie liegt in der Verantwortung 
 | BSI-Standard INF.1 Allgemeines Gebäude                                                          | Leitfaden für die physische Sicherheit von Gebäuden                    | [BSI Gebäude Sicherheit](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/Kompendium_Einzel_PDFs_2021/10_INF_Infrastruktur/INF_1_Allgemeines_Gebaeude_Edition_2021.pdf?__blob=publicationFile&v=2) |
 
 Diese Quellen und Referenzen bieten umfassende Leitlinien und Best Practices für die Entwicklung und Implementierung von Sicherheitsmaßnahmen sowie für die Einhaltung der relevanten Standards und Richtlinien. Sie dienen als Grundlage und Unterstützung bei der Implementierung und Aufrechterhaltung eines effektiven Gebäudesicherheitsprogramms bei [Unternehmen].
-
----
-
-**Dokumentinformationen**
-
-**Titel:** Richtlinie für die Gebäudesicherheit  
-**Version:** 1.0  
-**Datum:** [Heutiges Datum]  
-**Verantwortlich:** Sicherheitsbeauftragter für Gebäudesicherheit  
-**Genehmigt von:** [Name der genehmigenden Person]  
-**Nächste Überprüfung:** [Datum der nächsten Überprüfung]
