@@ -1,16 +1,4 @@
-| Author | Dipl.-Ing. Daniel Mrskos, BSc |  
-|--------|---------------------------------------------------------------|   
-| Funktion | CEO von Security mit Passion, Penetration Tester, Mentor, FH-Lektor, NIS Prüfer |                               
-| Datum  | 14. Juni 2024                                                 |
-| <img src="SMP_LOGO.png" alt="Firmenlogo" width="100"/>    | <img src="daniel.jpeg" alt="Author" width="100"/>                         |                                              |
-| Zertifizierungen  | CSOM, CRTL, eCPTXv2, eWPTXv2, CCD, eCTHPv2, CRTE, CRTO, eCMAP, PNPT, eCPPTv2, eWPT, eCIR, CRTP, CARTP, PAWSP, eMAPT, eCXD, eCDFP, BTL1 (Gold), CAPEN, eEDA, OSWP, CNSP, Comptia Pentest+, ITIL Foundation V3, ICCA, CCNA, eJPTv2, Developing Security Software (LFD121), CAP, Checkmarx Security Champion                                         |
-| LinkedIN  | [https://www.linkedin.com/in/dipl-ing-daniel-mrskos-bsc-0720081ab/](https://www.linkedin.com/in/dipl-ing-daniel-mrskos-bsc-0720081ab/)  
-| Website  | [https://security-mit-passion.at](https://security-mit-passion.at)  
-
----
 ### Richtlinie für BYOD und Mobile Device Management (MDM)
-
-**Datum:** [Heutiges Datum]
 
 **Einleitung**
 
@@ -101,14 +89,3 @@ Die Implementierung und Einhaltung dieser Richtlinie liegt in der Verantwortung 
 | NIST Special Publication 800-124 Revision 2: Guidelines for Managing the Security of Mobile Devices in the Enterprise | Leitfaden zur Verwaltung der Sicherheit mobiler Geräte                 | [NIST SP 800-124](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=921407)                                 |
 
 Diese Quellen und Referenzen bieten umfassende Leitlinien und Best Practices für die Entwicklung und Implementierung von Sicherheitsmaßnahmen sowie für die Einhaltung der relevanten Standards und Richtlinien. Sie dienen als Grundlage und Unterstützung bei der Implementierung und Aufrechterhaltung eines effektiven BYOD und MDM Programms bei [Unternehmen].
-
----
-
-**Dokumentinformationen**
-
-**Titel:** Richtlinie für BYOD und Mobile Device Management (MDM)  
-**Version:** 1.0  
-**Datum:** [Heutiges Datum]  
-**Verantwortlich:** IT-Sicherheitsbeauftragter  
-**Genehmigt von:** [Name der genehmigenden Person]  
-**Nächste Überprüfung:** [Datum der nächsten Überprüfung]
