@@ -1,7 +1,5 @@
 ### Richtlinie zur akzeptablen Nutzung von Unternehmenssystemen
 
-**Datum:** [Heutiges Datum]
-
 **Einleitung**
 
 Diese Richtlinie zur akzeptablen Nutzung von Unternehmenssystemen definiert die Anforderungen und Maßnahmen zur Sicherstellung einer sicheren und verantwortungsvollen Nutzung der IT-Ressourcen bei [Unternehmen]. Diese Richtlinie basiert auf den Standards ISO 27001:2022, ISO 27002:2022, CIS Controls v8, BSI C5:2020, der Cloud Controls Matrix (CCM), dem NIST Cybersecurity Framework, dem NIS2 Draft, der OH SzA für KRITIS, dem European Cyber Resilience Act und DORA.
@@ -97,14 +95,3 @@ Die Implementierung und Einhaltung dieser Richtlinie liegt in der Verantwortung 
 | Digital Operational Resilience Act (DORA)                                                       | EU-Verordnung zur digitalen operationellen Resilienz                   | [DORA](https://www.digital-operational-resilience-act.com)                                                       |
 
 Diese Quellen und Referenzen bieten umfassende Leitlinien und Best Practices für die Entwicklung und Implementierung von Sicherheitsmaßnahmen sowie für die Einhaltung der relevanten Standards und Richtlinien. Sie dienen als Grundlage und Unterstützung bei der Implementierung und Aufrechterhaltung einer sicheren IT-Umgebung bei [Unternehmen].
-
----
-
-**Dokumentinformationen**
-
-**Titel:** Richtlinie zur akzeptablen Nutzung von Unternehmenssystemen  
-**Version:** 1.0  
-**Datum:** [Heutiges Datum]  
-**Verantwortlich:** IT-Sicherheitsbeauftragter  
-**Genehmigt von:** [Name der genehmigenden Person]  
-**Nächste Überprüfung:** [Datum der nächsten Überprüfung]
